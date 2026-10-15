@@ -1,0 +1,27 @@
+# Executáveis comuns
+*.exe
+*.out
+*.app
+a.out
+
+# Objetos e arquivos de compilação
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.class
+
+# Arquivos temporários e de editor
+*.tmp
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
