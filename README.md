@@ -28,6 +28,7 @@ Consulte também o [índice central da documentação](docs/README.md). Cada pá
 | `switch-case` | [Switch-case](docs/09-switch-case.md) | [switch-case](exemplos/switch-case/) |
 | Laço `while` | [Estrutura while](docs/10-estrutura-while.md) | [lacos-de-repeticao](exemplos/lacos-de-repeticao/) |
 | Código legível | [Boas práticas](docs/11-boas-praticas.md) | — |
+| Funções | [Funções em C](docs/12-funcoes.md) *(extra para consulta futura)* | [funcoes](exemplos/funcoes/) |
 
 ### Exercícios
 
@@ -53,6 +54,7 @@ Consulte também o [índice central da documentação](docs/README.md). Cada pá
 - [x] `switch`, `case`, `break` e `default`
 - [x] Laço `while`
 - [x] Boas práticas iniciais
+- [ ] Funções em C (conteúdo extra para consulta futura)
 - [ ] Revisar com os exemplos e exercícios
 - [ ] Adicionar anotações específicas das aulas
 
@@ -96,7 +98,7 @@ Troque o caminho pelo arquivo `.c` que deseja executar. Se o programa usar recur
 5. Atualize os links relacionados e a navegação **em todas as páginas existentes**, incluindo os links de anterior/próxima e a lista completa de documentos.
 6. Registre dúvidas e observações pessoais em `anotacoes/`.
 
-Tópicos como funções, vetores, matrizes, strings, ponteiros e arquivos ficam reservados para quando forem abordados nas aulas. Quando forem adicionados, identifique conteúdos ainda não estudados como **conteúdo extra para consulta futura**.
+Tópicos como vetores, matrizes, strings, ponteiros e arquivos ficam reservados para quando forem abordados nas aulas. A página de funções foi incluída como **conteúdo extra para consulta futura**, pois pode ainda não ter sido ensinada em aula.
 
 ## Observações e aprendizados futuros
 

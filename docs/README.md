@@ -1,6 +1,6 @@
 # Índice da documentação
 
-Este índice reúne todos os documentos atuais. Sempre que um novo assunto for criado, atualize este arquivo e a seção **Links relacionados** de todas as páginas para que a navegação permaneça completa.
+Este índice reúne todos os documentos atuais. Sempre que um novo assunto for criado, atualize este arquivo e os blocos de navegação de todas as páginas para que a documentação continue conectada.
 
 ## Todos os assuntos
 
@@ -15,11 +15,12 @@ Este índice reúne todos os documentos atuais. Sempre que um novo assunto for c
 - [9. Estrutura `switch-case`](09-switch-case.md)
 - [10. Laço de repetição `while`](10-estrutura-while.md)
 - [11. Boas práticas iniciais em C](11-boas-praticas.md)
+- [12. Funções em C](12-funcoes.md)
 
 ## Como a navegação funciona
 
 - **Página anterior/próxima:** segue a ordem numerada de estudo.
 - **Todos os assuntos:** cada documento inclui links para toda a documentação existente.
-- **Links relacionados:** além do índice completo, cada página mantém atalhos para temas próximos.
+- **Links relacionados:** atalhos para temas próximos, exemplos, exercícios e anotações.
 
-Ao adicionar uma página, use o próximo número disponível e atualize o README principal, este índice e os blocos de navegação dos documentos existentes.
+Ao adicionar uma página, use o próximo número disponível e atualize o README principal, este índice e os blocos de navegação de todos os documentos existentes.
